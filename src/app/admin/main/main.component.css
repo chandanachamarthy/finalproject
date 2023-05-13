@@ -1,0 +1,52 @@
+.dashboard {
+    margin:50px;
+    background-color: #f7f7f7;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .metric {
+    width: 33%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  
+  .metric:not(:last-child) {
+    border-right: 1px solid #ccc;
+  }
+  
+  .metric .description {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .metric .number {
+    font-size: 24px;
+    color: #d87a7a;
+    font-weight: bold;
+  }
+  .button {
+    display: block;
+    margin: 30px auto;
+    padding: 10px 20px;
+    background-color: #be929d;
+    color: #fff;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #a36565;
+  }
+
+  
+  
+  
+  
+  
+  
+  

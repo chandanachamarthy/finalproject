@@ -1,0 +1,20 @@
+.rform{
+    background-color:rgb(221, 193, 156) ;
+    border-style:solid;
+    border-radius:6px;
+    width:50%;
+    height:190px;
+    padding-top:40px;
+    padding-left:90px;
+    margin-top:5px;
+    margin-left:250px;
+  
+}
+.btn-primary{
+background-color:rgb(227, 206, 206);
+color:black;
+text-align: center;
+}
+.row{
+    padding-top:5px
+}

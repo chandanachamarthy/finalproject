@@ -1,0 +1,32 @@
+.menu-bar{
+    background-color: rgb(234, 179, 175)! important;
+    color: rgb(125, 38, 52) ! important;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+   
+}
+
+ul{
+    margin-left: 50px;
+}
+li {
+    float: left;
+    list-style-type: none;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+a {
+    color: rgb(123, 76, 31);
+    size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover{
+    color: rgb(204, 115, 67)
+}

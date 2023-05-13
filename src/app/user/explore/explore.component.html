@@ -1,0 +1,15 @@
+
+<div class="filterapp">
+    <div>
+        <select [(ngModel)]="selected">
+            <option *ngFor="let x of types">{{x}}</option>
+        </select>
+    </div>
+    <div>
+        {{products}}
+    </div>
+</div>
+<div id="pro-wrap">
+    <app-product-box *ngFor="let x of servicelist| filter:selected" [products]="x"></app-product-box>
+
+</div>

@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "email": "anil@gmail.com",
+      "password": "password",
+      "firstname": "Anil",
+      "lastname": "Kumar",
+      "id": 1,
+      "type": "admin"
+    },
+    {
+      "email": "anu@gmail.com",
+      "password": "password",
+      "firstname": "Anil",
+      "lastname": "Kumar",
+      "id": 1,
+      "type": "user"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "image": "t-shirt.jpg",
+      "type": "T-shirts"
+    },
+    {
+      "id": 2,
+      "image": "croptop.jpg",
+      "type": "Crop-Tops"
+    },
+    {
+      "id": 3,
+      "image": "chudidar.jpg",
+      "type": "Chudidar"
+    },
+    {
+      "id": 4,
+      "image": "saree.jpg",
+      "type": "Sarees"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Cool T-Shirt",
+      "image": "cool-tshirt.jpg",
+      "description": "This t-shirt is super cool and comfortable. It's made from high-quality materials and is perfect for casual wear.",
+      "type": "t-shirt",
+      "image1": "shoes1.jpg",
+      "image2": "watches1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Funky T-Shirt",
+      "image": "funky-tshirt.jpg",
+      "description": "This funky t-shirt is sure to make a statement. Its bright colors and bold design are perfect for those who want to stand out.",
+      "type": "t-shirt",
+      "image1": "shoes2.jpg",
+      "image2": "watches2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Classic T-Shirt",
+      "image": "classic-tshirt.jpg",
+      "description": "This classic t-shirt is a wardrobe staple. It's made from soft, comfortable fabric and is perfect for everyday wear.",
+      "type": "t-shirt",
+      "image1": "shoes3.jpg",
+      "image2": "watches3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Striped T-Shirt",
+      "image": "striped-tshirt.jpg",
+      "description": "This striped t-shirt is perfect for those who like a classic, timeless look. It's made from soft, breathable fabric and is easy to wear.",
+      "type": "t-shirt",
+      "image1": "shoes4.jpg",
+      "image2": "watches4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Graphic T-Shirt",
+      "image": "graphic-tshirt.jpg",
+      "description": "This graphic t-shirt features a bold design that's sure to turn heads. It's made from high-quality materials and is perfect for those who like to make a statement.",
+      "type": "t-shirt",
+      "image1": "shoes5.jpg",
+      "image2": "watches5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Crop Top",
+      "image": "crop-top.jpg",
+      "description": "This crop top is perfect for those who want to show off a little skin. It's made from soft, breathable fabric and is perfect for warm weather.",
+      "type": "crops",
+      "image1": "shoes6.jpg",
+      "image2": "watches6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Floral Crop Top",
+      "image": "floral-crop-top.jpg",
+      "description": "This floral crop top is perfect for those who like a feminine, romantic look. It's made from lightweight fabric and is perfect for summer.",
+      "type": "crops",
+      "image1": "shoes7.jpg",
+      "image2": "watches7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Off-Shoulder Crop Top",
+      "image": "off-shoulder-crop-top.jpg",
+      "description": "This off-shoulder crop top is perfect for those who want to show off their shoulders. It's made from soft, stretchy fabric and is perfect for a night out.",
+      "type": "crops",
+      "image1": "shoes8.jpg",
+      "image2": "watches8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lace Crop Top",
+      "image": "lace-crop-top.jpg",
+      "description": "This lace crop top is perfect for those who like a romantic, bohemian look. It's made from delicate lace fabric and is perfect for a festival or concert.",
+      "type": "crops",
+      "image1": "shoes9.jpg",
+      "image2": "watches9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ruffle Crop Top",
+      "image": "ruffle-crop-top.jpg",
+      "description": "This ruffle crop top is perfect for those who like a playful, girly look. It's made from lightweight fabric and is perfect for a day out with friends.",
+      "type": "crops",
+      "image1": "shoes10.jpg",
+      "image2": "watches10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Silk Saree",
+      "image": "silk-saree.jpg",
+      "description": "This beautiful silk saree is perfect for weddings and other special occasions. It features intricate embroidery and is made from high-quality silk.",
+      "type": "sarees",
+      "image1": "shoes11.jpg",
+      "image2": "watches11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Cotton Saree",
+      "image": "cotton-saree.jpg",
+      "description": "This cotton saree is perfect for everyday wear. It's lightweight and comfortable, making it perfect for hot weather.",
+      "type": "sarees",
+      "image1": "shoes12.jpg",
+      "image2": "watches12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Georgette Saree",
+      "image": "georgette-saree.jpg",
+      "description": "This georgette saree is perfect for those who want a lightweight, flowy fabric. It's perfect for parties and other special occasions.",
+      "type": "sarees",
+      "image1": "shoes13.jpg",
+      "image2": "watches13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Chiffon Saree",
+      "image": "chiffon-saree.jpg",
+      "description": "This chiffon saree is perfect for those who want a lightweight, sheer fabric. It's perfect for summer and is easy to drape.",
+      "type": "sarees",
+      "image1": "shoes14.jpg",
+      "image2": "watches14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Printed Saree",
+      "image": "printed-saree.jpg",
+      "description": "This printed saree is perfect for those who like a bold, colorful look. It features a unique print and is perfect for casual wear.",
+      "type": "sarees",
+      "image1": "shoes15.jpg",
+      "image2": "watches15.jpg"
+    }
+    
+  ],
+  "reviews": [
+    {},
+    {
+      "id": 3632,
+      "name": "chandana",
+      "email": "chandanachamarthy119@gmail.com",
+      "type": "t-shirts",
+      "message": "nice dress........"
+    },
+    {
+      "id": 1427,
+      "name": "sreeja",
+      "email": "sreeja@gmail.com",
+      "type": "t-shirts",
+      "message": "nice designing.....love the color"
+    },
+    {
+      "id": "1",
+      "name": "nidhi",
+      "email": "nidhi@gmail.com",
+      "type": "t-shirts",
+      "message": "nice color....."
+    }
+    
+    
+  ],
+  "contactus": [
+    {
+      "id": 96655,
+      "fname": "chandana",
+      "lname": "chamarthy",
+      "email": "chandanachamarthy119@gmail.com",
+      "message": "want a personalized styling for a party wear....."
+    }
+  ],
+  "fourm": [
+    {
+      "type": "t-shirt",
+      "message": "This is a perfect collaboration. Looking forward to work again."
+    },
+    {
+      "type": "sarees",
+      "message": "This was an excellent project experience. Budget was too good."
+    }
+  ]
+}
